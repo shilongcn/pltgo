@@ -7,25 +7,30 @@ Purpose: to get the files of the "eps" format with some mathematical
 1. System requirements：
 
    Linux
-   sh or bash
+   sh (or "bash")
    GNU make
+   git
    Texlive
    Gnuplot
+   
+2. Download the source code
 
-2. Installation：
+   (1)$ git clone https://github.com/shilongcn/pltgo.git    
 
-   make
-   (or "make install")
+3. Installation：
+
+   (1)$ cd pltgo
+   (2)$ make (or "make install")
     
-3. Unstallation：
+4. Unstallation：
 
-   make uninstall
+   (1)$ make uninstall
 
-4. How to use:
+5. How to use:
 
    (1) Edit a file whith the command of gnuplot.         
    (2) Reserve the file as the format of ".plt".          
-   (3) Put the "plt" file into a single folder.       
+   (3) Put the file "???.plt" into a single folder.       
    (4) Open a terminal and enter the position of the folder.        
    (5) Just type "pltgo" in the terminal.        
 
