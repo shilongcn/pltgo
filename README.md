@@ -15,16 +15,16 @@ Purpose: to get the files of the "eps" format with some mathematical
    
 2. Download the source code
 
-   (1)$ git clone https://github.com/shilongcn/pltgo.git    
+   (1) $ git clone https://github.com/shilongcn/pltgo.git    
 
 3. Installation：
 
-   (1)$ cd pltgo
-   (2)$ make (or "make install")
+   (1) $ cd pltgo
+   (2) $ make (or "make install")
     
 4. Unstallation：
 
-   (1)$ make uninstall
+   (1) $ make uninstall
 
 5. How to use:
 
@@ -36,6 +36,6 @@ Purpose: to get the files of the "eps" format with some mathematical
 
 
 
-Author: Long Shi         
-Email: shilong13@mails.ucas.ac.cn      
-Date: 12/4/2015   
+Author:  Long Shi         
+Email:   shilong13@mails.ucas.ac.cn      
+Date:    12/4/2015   
