@@ -18,19 +18,19 @@
 ##2. Download the source code
 
 ```bash
-    $ git clone https://github.com/shilongcn/pltgo.git    
+$ git clone https://github.com/shilongcn/pltgo.git    
 ```
 
 ##3. Installation：
 
 ```bash
-    $ cd pltgo               
-    $ make install
+$ cd pltgo               
+$ make install
 ```   
 ##4. Unstallation：
 
 ```bash
-    $ make uninstall
+$ make uninstall
 ```
 
 ##5. How to use:
