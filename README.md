@@ -6,7 +6,7 @@
 
     to get the files of the "eps" format with some mathematical notation under the command of gnuplot.    
 
-##1. System requirements：
+##1. System requirements:
 
     Linux          
     sh (or "bash")         
@@ -15,19 +15,19 @@
     Texlive       
     Gnuplot         
    
-##2. Download the source code
+##2. Download the source code:
 
 ```bash
 $ git clone https://github.com/shilongcn/pltgo.git    
 ```
 
-##3. Installation：
+##3. Installation:
 
 ```bash
 $ cd pltgo               
 $ make install
 ```   
-##4. Unstallation：
+##4. Unstallation:
 
 ```bash
 $ make uninstall
