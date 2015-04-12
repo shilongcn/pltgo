@@ -4,7 +4,7 @@
 ##Version: 0.0.1      
 ##Purpose: 
 
-    to get the files of the "eps" format with some mathematical notation under the command of gnuplot.    
+    To get the files of the "eps" format with some mathematical notation under the command of gnuplot.    
 
 ##1. System requirements:
 
@@ -41,6 +41,8 @@ $ make uninstall
     (4) Open a terminal and enter the position of the folder.        
     (5) Just type "pltgo" in the terminal.        
 
+##6. Notes:
+    You can find the files in the folder "test". It provides the files, "plot.plt" and "energies.dat", which are used to be tested for you.
 
 
 ##Author:  Long Shi         
