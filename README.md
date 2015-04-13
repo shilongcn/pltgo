@@ -1,7 +1,7 @@
 
 #
 # pltgo        
-##Version: 0.0.1      
+##Version: 0.0.2      
 ##Purpose: 
 
     To get the files of the "eps" format with some mathematical notation under the command of gnuplot.    
@@ -25,12 +25,12 @@ $ git clone https://github.com/shilongcn/pltgo.git
 
 ```bash
 $ cd pltgo               
-$ make install
+$ sudo make install
 ```   
 ##4. Unstallation:
 
 ```bash
-$ make uninstall
+$ sudo make uninstall
 ```
 
 ##5. How to use:
@@ -43,6 +43,9 @@ $ make uninstall
 
 ##6. Notes:
     You can find the files in the folder "test". It provides the files, "plot.plt" and "energies.dat", which are used to be tested for you.
+    
+##7. Update notes:
+    In this version, I modified the Makefile under the suggestion of gzstzsj's.
 
 
 ##Author:  Long Shi         
