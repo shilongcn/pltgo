@@ -50,4 +50,4 @@ $ sudo make uninstall
 
 ##Author:  Long Shi         
 ##Email:   [shilong13@mails.ucas.ac.cn](shilong13@mails.ucas.ac.cn)      
-##Date:    12/4/2015 
+##Date:    14/4/2015 
