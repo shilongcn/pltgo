@@ -1,5 +1,5 @@
 install:	
-	sudo cp pltgo /usr/local/bin
-	sudo chmod 777 /usr/local/bin/pltgo
+	cp pltgo /usr/local/bin
+	chmod 755 /usr/local/bin/pltgo
 uninstall:
-	sudo rm /usr/local/bin/pltgo
+	rm /usr/local/bin/pltgo
