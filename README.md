@@ -10,11 +10,7 @@
     sh(or "bash")         
     GNU make         
     git        
-<<<<<<< HEAD
     Texlive(full version)       
-=======
-    Texlive(full version)      
->>>>>>> 4d16e5f63f65357a94c60a504e1b0cfcc5ed3f26
     Gnuplot         
    
 ##2. Download the source code:
