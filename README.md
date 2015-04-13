@@ -9,10 +9,10 @@
 ##1. System requirements:
 
     Linux          
-    sh (or "bash")         
+    sh(or "bash")         
     GNU make         
     git        
-    Texlive       
+    Texlive(full version)      
     Gnuplot         
    
 ##2. Download the source code:
@@ -35,7 +35,7 @@ $ make uninstall
 
 ##5. How to use:
 
-    (1) Edit a file whith the command of gnuplot.         
+    (1) Edit a file with the command of gnuplot.         
     (2) Reserve the file as the format of ".plt".          
     (3) Put the file "???.plt" into a single folder.       
     (4) Open a terminal and enter the position of the folder.        
